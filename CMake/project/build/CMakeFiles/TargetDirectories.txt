@@ -1,0 +1,3 @@
+/home/mohamed/Embedded_linx/CMake/project/build/CMakeFiles/rebuild_cache.dir
+/home/mohamed/Embedded_linx/CMake/project/build/CMakeFiles/edit_cache.dir
+/home/mohamed/Embedded_linx/CMake/project/build/CMakeFiles/hellobinary.dir
